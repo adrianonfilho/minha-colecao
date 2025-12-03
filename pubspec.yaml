@@ -1,0 +1,25 @@
+name: minha_colecao
+description: App de exemplo para gerenciamento de coleções com foto
+version: 1.0.0+1
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.2
+  image_picker: ^0.8.7+5
+  sqflite: ^2.2.8+4
+  path_provider: ^2.0.14
+  logger: ^1.1.0
+  path: ^1.8.3
+  sqflite_common_ffi: any
+  shared_preferences: ^2.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
