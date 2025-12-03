@@ -14,7 +14,3 @@ Como rodar:
 1. Instale dependências: `flutter pub get`
 2. Abra em um emulador/ dispositivo com câmera
 3. Rode: `flutter run`
-
-Observações:
-- Para alternar tema em tempo real seria necessário state management adicional (Provider / Riverpod / setState lifting).
-- Não se esqueça de configurar permissões Android/iOS para câmera e armazenamento.
