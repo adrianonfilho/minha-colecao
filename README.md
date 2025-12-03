@@ -1,7 +1,8 @@
-# Minha Coleção (exemplo)
+# Minha Coleção
+
+Alunos: Adriano Nóbrega e Antonio Cleiton 
 
 Projeto de exemplo para o trabalho final: app Flutter que permite criar coleções e itens com foto.
-
 Funcionalidades:
 - Modularização de código
 - Sistema de logs (logger)
